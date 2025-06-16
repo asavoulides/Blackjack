@@ -1,4 +1,5 @@
 # Blackjack in Java
+*Please note that the current version on GitHub is not the submitted version and rather an earlier release, bugs may be present in this version.*
 
 ### Installation
 1. Download this repository
